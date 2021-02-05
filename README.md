@@ -1,2 +1,3 @@
-# PasswordGen.-Python
-It generate random password
+# Random_Password_Generator
+# Used Language - Python
+It Generate Random And Complex Password
